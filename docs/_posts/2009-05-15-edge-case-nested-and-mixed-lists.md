@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "示例文章"
-categories:[Test]
+categories: [Test]
 tags: [Jekyll, GitHub Pages, 静态网站]
 author_profile: true
 toc: true
