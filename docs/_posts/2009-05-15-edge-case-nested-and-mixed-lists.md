@@ -1,13 +1,10 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
-categories:
-  - Edge Case
-tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+layout: single
+title: "示例文章"
+categories:[Test]
+tags: [Jekyll, GitHub Pages, 静态网站]
+author_profile: true
+toc: true
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
