@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "渊柳夜"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "虚無の回廊の番人たる第13代記録官。 禁忌知を血肉に変えし者。 失われたアカシックレコードの欠片を この手で再構築すべく彷徨う。"
+  location         : "鹿儿岛市山下町11番1号"
   email            :
   links:
     - label: "Email"
@@ -325,3 +325,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      toc_sticky: true 
