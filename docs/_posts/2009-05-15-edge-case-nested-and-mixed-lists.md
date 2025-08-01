@@ -2,7 +2,7 @@
 layout: single
 title: "示例文章"
 categories: [Test]
-date: 2025-08-01 15:00:00 +0800
+date: 2025-07-29 15:00:00 +0800
 tags: [Jekyll, GitHub Pages, 静态网站]
 author_profile: true
 toc: true
