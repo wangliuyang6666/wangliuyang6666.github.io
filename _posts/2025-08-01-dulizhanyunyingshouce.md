@@ -1,3 +1,12 @@
+---
+layout: single
+title: "独立站运营手册：从0到1"
+date: 2025-07-15 10:00:00 +0800
+categories: 
+tags: 
+author_profile: true
+toc: true
+---
 # 独立站运营手册：从0到1
 
 ## 一、独立站模式概述
